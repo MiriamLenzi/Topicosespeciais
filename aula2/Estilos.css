@@ -1,0 +1,12 @@
+p {
+   color:rgb(255,0,0,0.89);
+   background-color: rgb(46, 211, 211);
+   font-size: 12px; 
+}
+
+h1 {border: 10px solid red ;}
+h2 {border: 15px solid fuchsia ;}
+h3 {border: 20px solid green;}
+h4 {border: 25px solid khaki ;}
+h5 {border: 30px solid magenta ;}
+h6 {border: 35px solid yellow ;}
